@@ -115,3 +115,89 @@ else if (anotherCondition) {
 else {
     // code
 }
+Important rule:
+Conditions are checked from top to bottom, and the first true condition is executed.
+
+2. Comparison Operators
+Operator
+Meaning
+>
+Greater than
+<
+Less than
+>=
+Greater than or equal to
+<=
+Less than or equal to
+==
+Equal to
+!=
+Not equal to
+
+3. Logical Operators
+AND — &&
+Both conditions must be true.
+if (age >= 18 && age <= 30) {
+    cout << "Eligible";
+}
+OR — ||
+At least one condition must be true.
+if (day == 6 || day == 7) {
+    cout << "Weekend";
+}
+NOT — !
+Reverses a condition.
+true  → false
+false → true
+Problems Practiced
+1. Largest of Three Numbers
+I created a program to find the largest among three integers.
+My initial approach used the > operator:
+if (a > b && a > c) {
+    cout << "The largest number is: " << a;
+}
+While testing edge cases, I found that this approach fails when two numbers are equal.
+For example:
+10 10 5
+The largest number is 10, but using only > would not correctly identify it in this case.
+So I improved the logic using >=:
+if (a >= b && a >= c) {
+    cout << "The largest number is: " << a;
+}
+else if (b >= a && b >= c) {
+    cout << "The largest number is: " << b;
+}
+else {
+    cout << "The largest number is: " << c;
+}
+This handles cases where two or all three numbers are equal.
+2. Leap Year
+I also started working on the Leap Year problem.
+The rule is:
+A year divisible by 400 is a leap year.
+OR, a year divisible by 4 and not divisible by 100 is a leap year.
+The logical condition is:
+(year % 400 == 0) || (year % 4 == 0 && year % 100 != 0)
+I will continue testing this condition with different cases on Day 3.
+🧠 Key Learning
+Today's biggest lesson was that testing and finding edge cases is an important part of problem solving.
+A solution may work for normal inputs but fail for special cases.
+For example:
+10 25 15 → 25
+works with >.
+But:
+10 10 5 → 10
+showed me why >= was needed.
+This helped me understand that writing code is only one part of problem solving.
+Thinking about different possible inputs and testing edge cases is equally important.
+🎯 Day 2 Progress
+[x] Revised Day 1 concepts
+[x] Re-solved previous beginner problems
+[x] Learned if / else if / else
+[x] Learned comparison operators
+[x] Learned logical operators &&, ||, !
+[x] Solved largest of three numbers
+[x] Tested edge cases
+[x] Improved the solution using >=
+[x] Started the Leap Year problem
+[ ] Complete and test the Leap Year problem
