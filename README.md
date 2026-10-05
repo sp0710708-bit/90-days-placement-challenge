@@ -70,3 +70,48 @@ int a = 10;
 int b = 3;
 
 cout << a / b;
+
+
+
+# 📅 Day 2/90 — Revision & Conditional Logic
+
+Day 2 of my 90-day tech placement preparation journey.
+
+Today was focused mainly on **revision, practice, and building logical thinking using conditional statements**.
+
+I revised yesterday's C++ concepts and solved some of the previous questions again before moving on to new topics.
+
+---
+
+## 🔄 Revision from Day 1
+
+I revised and practiced:
+
+- Variables and data types
+- `cin` and `cout`
+- Arithmetic operators
+- Modulo operator `%`
+- Integer vs floating-point division
+- `if/else`
+- Assignment operator `=`
+- Comparison operator `==`
+- Beginner programming problems from Day 1
+
+---
+
+## 📚 New Concepts Learned
+
+### 1. `if / else if / else`
+
+Learned how a program can make decisions based on conditions.
+
+```cpp
+if (condition) {
+    // code
+}
+else if (anotherCondition) {
+    // code
+}
+else {
+    // code
+}
