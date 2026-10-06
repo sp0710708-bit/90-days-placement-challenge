@@ -201,3 +201,151 @@ Thinking about different possible inputs and testing edge cases is equally impor
 [x] Improved the solution using >=
 [x] Started the Leap Year problem
 [ ] Complete and test the Leap Year problem
+
+
+
+
+---
+
+# 📅 Day 3/90 — Conditional Logic, Problem Solving & GD Practice
+
+Day 3 of my 90-day tech placement preparation journey.
+
+Today I focused on strengthening my understanding of conditional logic, practicing problem-solving through decision trees, and preparing for Group Discussions.
+
+---
+
+## 🔄 Revision
+
+I revised important concepts from Day 1 and Day 2, including:
+
+- Variables and data types
+- `cin` and `cout`
+- Arithmetic operators
+- Modulo operator `%`
+- Comparison operators
+- `if / else if / else`
+- Logical operators `&&`, `||`, `!`
+- Edge cases
+- Dry runs
+
+I also briefly reviewed `switch` statements, but since I had already studied the topic, I focused my time on problem solving instead.
+
+---
+
+## 📚 Concepts Practiced
+
+### 1. Leap Year Logic
+
+I completed the Leap Year problem and tested it with important edge cases.
+
+The condition I used was:
+
+```cpp
+(year % 400 == 0) || (year % 4 == 0 && year % 100 != 0)
+I tested:
+2024 → Leap Year
+1900 → Not a Leap Year
+2000 → Leap Year
+This helped me understand why simply checking whether a year is divisible by 4 is not enough.
+
+2. Nested if Statements
+I learned how to place one if statement inside another if statement.
+Example structure:
+if (condition1) {
+
+    if (condition2) {
+        // code
+    }
+    else {
+        // code
+    }
+
+}
+else {
+    // code
+}
+The important idea I learned is:
+The inner decision can depend on the outer decision.
+For example, when checking whether someone can enter:
+Is the person 18 or older?
+        |
+        YES
+        |
+    Check ID
+      /   \
+    YES   NO
+    |      |
+  Allow   Need ID
+This helped me understand how to build a decision tree before writing the actual code.
+🧠 Problem Solving Practice
+I worked on a number classification problem.
+The goal was to determine whether a number is:
+Positive Even
+Positive Odd
+Negative Even
+Negative Odd
+Zero
+The decision-making approach was:
+              n == 0?
+             /       \
+          YES         NO
+          |           |
+        Zero        n > 0?
+                    /     \
+                  YES      NO
+                   |        |
+              Positive   Negative
+                 |          |
+              Even/Odd    Even/Odd
+This problem helped me practice combining:
+if / else if / else
+Nested if
+Comparison operators
+Modulo %
+Logical reasoning
+Decision trees
+I also learned that zero should be handled separately before checking whether the number is positive or negative.
+🧪 Edge Cases & Dry Runs
+Today I continued practicing dry runs instead of immediately executing code.
+Some important cases I considered were:
+18 → boundary case for adulthood
+0  → special case for number classification
+1900 → leap year edge case
+2000 → leap year edge case
+This reinforced an important lesson:
+A solution should not only work for normal inputs. It should also handle boundary cases and special cases correctly.
+🎤 Group Discussion Preparation
+Along with technical preparation, I also spent time preparing for Group Discussions.
+I participated in a GD with my friends through Google Meet.
+During the session, I practiced:
+Expressing my thoughts clearly
+Speaking with confidence
+Listening to other participants
+Understanding different viewpoints
+Responding to others' opinions
+Maintaining a structured flow while speaking
+This gave me practical experience instead of only preparing theoretically.
+I realized that placement preparation requires more than technical knowledge.
+Technical skills + problem solving + communication + confidence all matter.
+🧠 Key Learnings
+Today's biggest lessons were:
+Think about the decision structure before writing code.
+Use nested conditions when one decision depends on another.
+Always consider edge cases.
+Dry-run the logic before executing the program.
+Communication skills are also an important part of placement preparation.
+🎯 Day 3 Progress
+[x] Revised Day 1 and Day 2 concepts
+[x] Completed Leap Year logic
+[x] Tested Leap Year edge cases
+[x] Learned and practiced nested if
+[x] Practiced decision trees
+[x] Practiced dry runs
+[x] Started number classification problem
+[x] Prepared for Group Discussion
+[x] Participated in a GD with friends through Google Meet
+[x] Complete final testing of the number classification problem
+🚀 Day 3/90
+Think → Plan → Code → Test → Find edge cases → Improve.
+Day 3/90 — Almost Complete ✅
