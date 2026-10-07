@@ -349,3 +349,85 @@ Communication skills are also an important part of placement preparation.
 🚀 Day 3/90
 Think → Plan → Code → Test → Find edge cases → Improve.
 Day 3/90 — Almost Complete ✅
+
+
+
+
+
+# Day 04 — Revision, Loops & Placement Preparation
+
+## 📚 Topics Covered
+
+Today was a lighter study day focused mainly on revision and maintaining consistency.
+
+### C++ Revision
+- Revised concepts learned during previous days
+- Reviewed conditional statements
+- Reviewed nested `if`
+- Reviewed logical and comparison operators
+- Reviewed edge cases and dry runs
+
+### Number Classification
+
+Completed and tested the number classification problem.
+
+The program classifies a number as:
+
+- Positive Even
+- Positive Odd
+- Negative Even
+- Negative Odd
+- Zero
+
+### Loops — Introduction
+
+Started learning the fundamentals of loops.
+
+Understood the three important parts of a loop:
+
+1. Initialization
+2. Condition
+3. Update
+
+Example concept:
+
+```cpp
+int i = 1;
+Condition:
+i <= 5
+Update:
+i = i + 1;
+Understood why:
+i <= 5
+allows values from 1 through 5, while:
+i == 5
+is only true when i is exactly 5.
+🗣️ Group Discussion Practice
+Participated in another Group Discussion with friends through Google Meet.
+Skills Practiced
+Communication
+Confidence
+Active listening
+Expressing ideas clearly
+Responding to different viewpoints
+Participating in discussions
+Regular GD practice is helping me prepare not only technically but also for the communication and discussion rounds of placements.
+🧠 Key Learnings
+Revision is important for retaining previously learned concepts.
+Understanding the logic behind loops is more important than memorizing syntax.
+Conditions determine when a loop continues or stops.
+Consistency matters even on low-energy days.
+Placement preparation requires both technical and communication skills.
+✅ Day 04 Checklist
+[x] Revise previous C++ concepts
+[x] Complete number classification problem
+[x] Test positive, negative, even, odd and zero cases
+[x] Understand basic loop structure
+[x] Understand initialization, condition and update
+[x] Participate in Group Discussion
+[x] Practice communication skills
+[ ] Complete for loop syntax and practice
+[ ] Start Time & Space Complexity
+💡 Day 04 Takeaway
+Consistency doesn't mean every day has to be perfect.
+The goal is to keep moving forward.
