@@ -431,3 +431,124 @@ Placement preparation requires both technical and communication skills.
 💡 Day 04 Takeaway
 Consistency doesn't mean every day has to be perfect.
 The goal is to keep moving forward.
+
+
+---
+
+# Day 05 — Group Discussion & Placement Preparation
+
+## Activities
+
+Day 5 was a lighter day focused on placement preparation outside technical coding.
+
+### Group Discussion Practice
+
+Participated in a Group Discussion with friends through Google Meet.
+
+### Skills Practiced
+- Communication
+- Active listening
+- Expressing ideas clearly
+- Building confidence
+- Understanding different viewpoints
+- Responding thoughtfully during discussions
+
+## Key Learnings
+
+- Technical knowledge is only one part of placement preparation.
+- Communication and teamwork are also important.
+- Consistency matters more than having a perfect study schedule every day.
+
+## Day 5 Checklist
+
+- [x] Participate in Group Discussion
+- [x] Practice communication skills
+- [ ] C++ coding practice
+- [ ] DSA practice
+
+## Reflection
+
+Although I did not complete a coding session today, I continued working on my placement preparation through communication practice.
+
+The goal is to keep improving throughout the 90-day journey.
+
+
+
+
+
+# Day 06 — Loops, Typecasting & Revision
+
+## 📚 Topics Covered
+
+### 1. Loops in C++
+
+Completed the topic of loops in C++ and practiced the concepts through examples and code.
+
+Topics covered:
+- `for` loop
+- `while` loop
+- `do-while` loop
+- Loop initialization, condition, and update
+- Controlling loop execution
+- Practicing repetition through loops
+
+### 2. Typecasting in C++
+
+Learned about type conversion and its role in C++ programming.
+
+#### Implicit Typecasting
+
+Implicit typecasting occurs when the compiler automatically converts a value from one data type to another in certain situations.
+
+Example:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int num = 10;
+    double result = num;
+
+    cout << result;
+
+    return 0;
+}
+Output:
+10
+Here, the integer value is converted to a double automatically.
+Explicit Typecasting
+Explicit typecasting occurs when the programmer explicitly requests a conversion.
+Example:
+#include <iostream>
+using namespace std;
+
+int main() {
+    double num = 9.75;
+    int result = static_cast<int>(num);
+
+    cout << result;
+
+    return 0;
+}
+Output:
+9
+Here, static_cast<int>(num) explicitly converts the double value to an int. The fractional part is discarded.
+3. Revision
+Reviewed previous notes.
+Strengthened understanding of previously learned C++ concepts.
+Practiced writing code to reinforce theoretical knowledge.
+🧠 Key Learnings
+Loops allow repetitive tasks to be performed efficiently.
+Implicit typecasting is performed automatically by the compiler in appropriate contexts.
+Explicit typecasting allows the programmer to request a specific conversion.
+Converting from a floating-point type to an integer discards the fractional part; it does not round to the nearest integer.
+Regular revision helps reinforce previously learned concepts.
+✅ Day 06 Checklist
+[x] Complete loops in C++
+[x] Learn implicit typecasting
+[x] Learn explicit typecasting
+[x] Practice typecasting with code examples
+[x] Review previous notes
+💡 Day 06 Takeaway
+Learn the concept, understand the behavior, write the code, and practice until the logic becomes clear.
