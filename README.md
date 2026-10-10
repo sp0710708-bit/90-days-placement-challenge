@@ -552,3 +552,87 @@ Regular revision helps reinforce previously learned concepts.
 [x] Review previous notes
 💡 Day 06 Takeaway
 Learn the concept, understand the behavior, write the code, and practice until the logic becomes clear.
+
+
+
+
+---
+
+# Day 07 — Functions in C++ & Group Discussion
+
+## 💻 Topics Covered
+
+### 1. Introduction to Functions
+
+Started learning about functions in C++.
+
+Functions help divide a program into smaller, reusable blocks of code. They make programs easier to organize, understand, test, and maintain.
+
+### 2. Void Functions
+
+Learned about `void` functions in C++.
+
+A `void` function performs a task but does not return a value to its caller.
+
+Example:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+void greet() {
+    cout << "Hello, welcome to C++!";
+}
+
+int main() {
+    greet();
+    return 0;
+}
+```
+
+**Output:**
+
+```text
+Hello, welcome to C++!
+```
+
+In this example:
+- `void` indicates that the function does not return a value.
+- `greet()` is the function name.
+- The function body contains the task to perform.
+- `greet();` calls the function from `main()`.
+
+## 🗣️ Placement Preparation — Group Discussion
+
+Participated in another Group Discussion with friends through Google Meet.
+
+### Skills Practiced
+
+- Communication
+- Active listening
+- Expressing ideas clearly
+- Confidence while speaking
+- Responding to different viewpoints
+
+Regular Group Discussion practice is helping me work on the communication skills required for placement preparation.
+
+## 🧠 Key Learnings
+
+- Functions help organize programs into reusable blocks.
+- A `void` function does not return a value.
+- Functions can be called whenever their behavior is needed.
+- Technical knowledge and communication skills are both important for placement preparation.
+
+## ✅ Day 07 Checklist
+
+- [x] Begin learning functions in C++
+- [x] Understand the basic concept of `void` functions
+- [x] Practice a basic void function
+- [x] Participate in Group Discussion
+- [x] Practice communication skills
+- [ ] Continue learning function parameters and return values
+- [ ] Practice more function-based problems
+
+## 💡 Day 07 Takeaway
+
+> Consistent learning, practical coding, and communication practice are all part of becoming placement-ready.
