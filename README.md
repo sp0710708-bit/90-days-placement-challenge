@@ -636,3 +636,97 @@ Regular Group Discussion practice is helping me work on the communication skills
 ## 💡 Day 07 Takeaway
 
 > Consistent learning, practical coding, and communication practice are all part of becoming placement-ready.
+
+
+
+
+
+---
+
+# Day 08 — C++ Revision, Function Anatomy & GD Practice
+
+## 📚 Topics Covered
+
+### 1. Revision of Previous Concepts
+
+Revisited previously learned C++ concepts and practiced earlier problems.
+
+**Goal:**
+- Strengthen fundamental concepts.
+- Improve retention through revision.
+- Identify areas that need additional practice.
+
+### 2. Functions in C++
+
+Continued learning about functions in C++.
+
+#### Function Anatomy
+
+Studied the basic structure and components of a function.
+
+Example:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+void greet() {
+    cout << "Hello!";
+}
+
+int main() {
+    greet();
+    return 0;
+}
+```
+
+**Output:**
+
+```text
+Hello!
+```
+
+#### Components of a Function
+
+- `void` — return type; indicates that the function does not return a value.
+- `greet` — function name.
+- `()` — parentheses containing parameters, if any.
+- `{}` — function body containing the statements to execute.
+- `greet();` — function call that executes the function.
+
+### 3. Group Discussion Practice
+
+Participated in another Group Discussion practice session with friends.
+
+**Skills practiced:**
+- Communication
+- Active listening
+- Expressing ideas clearly
+- Building confidence
+- Responding to different viewpoints
+
+## 🧠 Key Learnings
+
+- Revision helps reinforce previously learned concepts.
+- Understanding function structure is important for writing organized C++ programs.
+- Functions help divide programs into smaller, reusable units.
+- Technical preparation and communication practice are both important for placement readiness.
+- Consistent effort matters, even on slower days.
+
+## ✅ Day 08 Checklist
+
+- [x] Revise previously learned C++ concepts
+- [x] Practice previous problems
+- [x] Continue studying functions
+- [x] Study function anatomy
+- [x] Participate in Group Discussion practice
+- [ ] Continue learning function parameters and return values
+- [ ] Solve additional function-based problems
+
+## 💡 Day 08 Reflection
+
+Today was a lighter study day, but I continued working on my technical fundamentals and communication skills.
+
+My next goal is to improve my time management, practice more independently, and keep progressing toward DSA.
+
+> Progress is not always fast, but every honest effort can contribute to long-term improvement.
