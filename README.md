@@ -730,3 +730,42 @@ Today was a lighter study day, but I continued working on my technical fundament
 My next goal is to improve my time management, practice more independently, and keep progressing toward DSA.
 
 > Progress is not always fast, but every honest effort can contribute to long-term improvement.
+
+
+
+
+## Day 9 – Loop Control and Nested Loops
+
+### 📚 Topics Practiced
+- Reviewed `for`, `while`, and `do-while` loops.
+- Practiced the `break` statement to terminate a loop.
+- Practiced the `continue` statement to skip an iteration.
+- Started learning nested loops.
+- Practiced tracing code execution and predicting outputs.
+- Participated in Group Discussion (GD) practice with friends.
+
+### 💡 Key Learnings
+- `break` immediately terminates the loop.
+- `continue` skips the current iteration and proceeds to the next one.
+- A nested loop is a loop inside another loop.
+- The inner loop completes its iterations for each iteration of the outer loop.
+- The position of statements such as `cout << endl;` affects the output format.
+
+### 🧠 Practice and Reflection
+I practiced several loop-based examples and worked on understanding
+how the values of loop variables change during execution.
+
+Nested loops are a concept I need to practice further, especially
+understanding the relationship between the inner and outer loops.
+
+I also practiced Group Discussion with friends to improve my
+communication and confidence for placement preparation.
+
+### 🎯 Next Steps
+- Continue practicing nested loops.
+- Improve my ability to trace loop execution step by step.
+- Solve more beginner-level C++ exercises.
+- Continue regular GD practice.
+
+**Progress:** Continued strengthening C++ fundamentals and
+identified nested loops as an area for further practice.
