@@ -769,3 +769,30 @@ communication and confidence for placement preparation.
 
 **Progress:** Continued strengthening C++ fundamentals and
 identified nested loops as an area for further practice.
+
+
+
+
+## Day 10 - C++ Practice
+
+### Topics Learned and Practiced
+- Revised loops in C++.
+- Practiced nested loops and understood the relationship between outer and inner loops.
+- Explored basic pattern printing using nested loops.
+- Learned more about functions in C++.
+- Wrote function code independently to improve my understanding and coding skills.
+
+### Key Takeaways
+- Loops help automate repetitive tasks.
+- Nested loops can be used to work with rows, columns, and patterns.
+- Functions help organize code into reusable blocks.
+- Writing code independently helps strengthen logical thinking and problem-solving skills.
+
+### Reflection
+Today, I focused on strengthening my understanding of loops and functions.
+I practiced nested loops and explored basic patterns. I also wrote function
+code by myself, which helped me gain more confidence in applying what I learned.
+
+I will continue practicing these concepts to improve my understanding and coding skills.
+
+**Status:** Day 10 completed.
