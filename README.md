@@ -796,3 +796,32 @@ code by myself, which helped me gain more confidence in applying what I learned.
 I will continue practicing these concepts to improve my understanding and coding skills.
 
 **Status:** Day 10 completed.
+
+
+
+
+## Day 11 - Revision, Debugging, and GD Practice
+
+### Activities Completed
+- Worked on debugging C++ programming problems.
+- Revised previously learned C++ concepts.
+- Practiced identifying and correcting errors in code.
+- Participated in Group Discussion (GD) practice to improve communication skills.
+
+### Key Takeaways
+- Debugging helps identify mistakes and improve code correctness.
+- Regular revision strengthens understanding and retention.
+- Consistent practice helps build confidence in programming.
+- Group Discussions help develop communication and idea-expression skills.
+
+### Reflection
+Today, I focused on revising previous topics and debugging programming
+problems instead of rushing into new concepts. I also practiced Group
+Discussions as part of my overall placement preparation.
+
+I will continue strengthening my fundamentals through regular revision,
+hands-on coding, and communication practice.
+
+**Status:** Day 11 completed.
+Suggested commit message
+docs: add day 11 revision and debugging progress
