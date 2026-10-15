@@ -823,5 +823,37 @@ I will continue strengthening my fundamentals through regular revision,
 hands-on coding, and communication practice.
 
 **Status:** Day 11 completed.
-Suggested commit message
-docs: add day 11 revision and debugging progress
+
+
+
+
+
+## Day 12 - C++ Data Types and Computer Fundamentals
+
+### Topics Learned
+- Studied C++ data types and their purpose.
+- Learned the differences between signed and unsigned integers.
+- Explored how positive and negative integers are represented in memory.
+- Studied the differences between 32-bit and 64-bit architectures.
+- Revised previously learned C++ concepts.
+- Practiced Group Discussions (GD) to improve communication skills.
+
+### Key Takeaways
+- Data types determine the kind of values a variable can represent.
+- Signed integer types can represent negative and positive values, while unsigned integer types represent non-negative values.
+- Computers use binary representations to store numerical data.
+- 32-bit and 64-bit architectures differ in important ways, including their address-space capabilities.
+- Regular revision helps reinforce programming fundamentals.
+- GD practice supports communication and confidence development.
+
+### Reflection
+Today, I explored C++ data types, signed and unsigned integers, number
+representation in memory, and the differences between 32-bit and 64-bit
+architectures. I also revised previous topics and practiced GD.
+
+My goal is to understand not only how to write code, but also how computers
+represent and process the data used by that code.
+
+I will continue strengthening my fundamentals through revision and consistent practice.
+
+**Status:** Day 12 completed.
