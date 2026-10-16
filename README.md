@@ -857,3 +857,35 @@ represent and process the data used by that code.
 I will continue strengthening my fundamentals through revision and consistent practice.
 
 **Status:** Day 12 completed.
+
+
+
+
+## Day 13 — Algorithms and Flowcharts
+
+### Topics Covered
+- Introduction to algorithms
+- Importance and characteristics of algorithms
+- Introduction to flowcharts
+- Flowchart components and symbols
+- Representing problem-solving logic visually
+
+### Practical Work
+- Designed multiple flowcharts to understand program logic.
+- Practiced identifying the appropriate flowchart symbols for different operations.
+- Worked on organizing problem-solving steps before implementation.
+
+### Communication Practice
+- Continued daily Group Discussion (GD) practice.
+- Focused on improving communication, confidence, and idea organization.
+
+### Key Takeaway
+Algorithms provide step-by-step instructions for solving problems, while flowcharts represent those steps visually. Planning the logic before coding helps make solutions clearer and easier to implement.
+
+### Progress
+- [x] Studied algorithms
+- [x] Learned flowchart components
+- [x] Designed multiple flowcharts
+- [x] Practiced Group Discussion
+
+**Day 13 completed — continuing the 90 Days Placement Preparation Challenge!**
