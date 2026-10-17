@@ -889,3 +889,27 @@ Algorithms provide step-by-step instructions for solving problems, while flowcha
 - [x] Practiced Group Discussion
 
 **Day 13 completed — continuing the 90 Days Placement Preparation Challenge!**
+
+
+
+
+
+## Day 14 — Revision and GD Practice
+
+### Today's Activities
+- Revised notes from previously studied topics.
+- Reviewed programming fundamentals to reinforce understanding.
+- Practiced Group Discussions (GD).
+
+### Key Takeaways
+- Regular revision helps strengthen conceptual understanding.
+- Revisiting previous topics helps identify gaps in knowledge.
+- GD practice supports communication, confidence, and structured thinking.
+- Consistency is essential for long-term placement preparation.
+
+### Progress Checklist
+- [x] Revised notes
+- [x] Reviewed previous concepts
+- [x] Practiced Group Discussions
+
+**Day 14 completed — 14 days of consistent placement preparation!**
