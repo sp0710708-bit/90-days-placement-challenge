@@ -934,3 +934,23 @@ Algorithms provide step-by-step instructions for solving problems, while flowcha
 - [x] Planned the next steps
 
 **Day 15 completed — staying committed to the 90 Days Placement Preparation Challenge.**
+
+
+
+
+## 📅 Days 16–17: Reflection & Staying Consistent 🌱
+
+The past two days were a reminder that a learning journey doesn't always go according to plan.
+
+Although I couldn't make as much technical progress as I had planned, I remained committed to my 90-day placement preparation challenge.
+
+### 💡 Key Takeaways
+- Consistency is about returning to your goals, even after a pause.
+- Time management is an important part of placement preparation.
+- Progress is not always measured by the amount of code written.
+- Staying committed matters more than being perfect every day.
+
+### 🎯 Moving Forward
+I'll continue strengthening my C++ fundamentals, practising problem-solving, and documenting my actual learning and code on GitHub.
+
+**The journey continues — one step at a time! 🚀**
