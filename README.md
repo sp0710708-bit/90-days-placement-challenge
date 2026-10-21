@@ -954,3 +954,24 @@ Although I couldn't make as much technical progress as I had planned, I remained
 I'll continue strengthening my C++ fundamentals, practising problem-solving, and documenting my actual learning and code on GitHub.
 
 **The journey continues — one step at a time! 🚀**
+
+
+
+## Day 18 — Placement Preparation and GD Practice
+
+### Today's Activities
+- Attended a company pre-placement presentation (PPT).
+- Participated in a Group Discussion (GD).
+- Observed the importance of communication and teamwork in recruitment.
+
+### Key Takeaways
+- Clear communication is essential during group discussions.
+- Active listening and structured thinking improve participation.
+- Understanding the recruitment process helps with career preparation.
+
+### Progress Checklist
+- [x] Attended company PPT
+- [x] Participated in GD
+- [x] Reflected on communication and professional skills
+
+**Day 18 completed — continuing the 90 Days Placement Preparation Challenge!**
