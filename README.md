@@ -975,3 +975,25 @@ I'll continue strengthening my C++ fundamentals, practising problem-solving, and
 - [x] Reflected on communication and professional skills
 
 **Day 18 completed — continuing the 90 Days Placement Preparation Challenge!**
+
+
+
+
+## Day 19 — Revision and GD Practice
+
+### Today's Focus
+- Revised notes from previously studied technical topics.
+- Reinforced understanding of programming fundamentals.
+- Practiced Group Discussions (GD).
+
+### Key Takeaways
+- Revision strengthens conceptual understanding.
+- Regular practice helps identify knowledge gaps.
+- GD practice improves communication, confidence, and structured thinking.
+
+### Progress Checklist
+- [x] Revised previous notes
+- [x] Reviewed technical concepts
+- [x] Practiced Group Discussions
+
+**Day 19 completed — continuing the 90 Days Placement Preparation Challenge!**
