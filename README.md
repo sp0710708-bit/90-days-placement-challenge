@@ -1,4 +1,4 @@
-# 90-days-placement-challenge
+mi# 90-days-placement-challenge
 My 90-day placement preparation journey covering DSA, programming, projects, and interview preparation.
 # 🚀 90 Days Tech Placement Preparation
 
@@ -997,3 +997,26 @@ I'll continue strengthening my C++ fundamentals, practising problem-solving, and
 - [x] Practiced Group Discussions
 
 **Day 19 completed — continuing the 90 Days Placement Preparation Challenge!**
+
+
+
+
+## Day 20 — Reflection and Improvement
+
+### Today's Focus
+- Reflected on my placement preparation journey.
+- Identified time management and consistency as areas to improve.
+- Planned to make my daily learning goals more realistic.
+
+### Key Takeaways
+- Consistency requires realistic planning and discipline.
+- Small, focused study sessions can help build sustainable habits.
+- Reviewing and improving my routine is part of the learning process.
+
+### Next Steps
+- Set achievable daily learning targets.
+- Resume regular C++ fundamentals practice.
+- Continue Group Discussion (GD) practice.
+- Track progress honestly.
+
+**Day 20 completed — continuing the 90 Days Placement Preparation Challenge.**
