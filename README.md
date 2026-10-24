@@ -1020,3 +1020,30 @@ I'll continue strengthening my C++ fundamentals, practising problem-solving, and
 - Track progress honestly.
 
 **Day 20 completed — continuing the 90 Days Placement Preparation Challenge.**
+
+
+
+
+## Day 21 — Exploring C++ Data Representation
+
+### Topics Revisited in Depth
+- Variables and data types
+- Signed vs. unsigned integer types
+- How values are represented in memory
+- Data-type ranges and value representation
+- Operators and expression behavior
+
+### Communication Practice
+- Continued Group Discussion (GD) practice.
+- Focused on expressing ideas clearly and confidently.
+
+### Key Takeaway
+Understanding data types goes beyond memorizing syntax. Knowing how values are represented, how ranges differ, and how operators behave helps develop more reliable C++ programs.
+
+### Progress Checklist
+- [x] Explored signed and unsigned types
+- [x] Reviewed memory representation of values
+- [x] Revised operators
+- [x] Practiced Group Discussion
+
+**Day 21 completed — strengthening fundamentals through deeper revision.**
