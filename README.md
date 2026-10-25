@@ -1047,3 +1047,37 @@ Understanding data types goes beyond memorizing syntax. Knowing how values are r
 - [x] Practiced Group Discussion
 
 **Day 21 completed — strengthening fundamentals through deeper revision.**
+
+
+
+## Day 22 — Operators and Looping Constructs in C++
+
+### Topics Explored
+
+**Operators**
+- Arithmetic operators
+- Assignment operators
+- Logical operators
+- Bitwise operators
+- Understanding expressions and conditions
+
+**Loops**
+- `for` loop
+- `while` loop
+- `do-while` loop
+- Understanding the differences between loop structures and their use cases
+
+### Key Learning
+Explored how operators evaluate expressions and how loops control repeated execution. Focused on choosing appropriate constructs based on program requirements and understanding how conditions affect program flow.
+
+### Communication Practice
+- Continued Group Discussion (GD) practice.
+- Worked on clear expression and structured thinking.
+
+### Progress Checklist
+- [x] Explored arithmetic and assignment operators
+- [x] Studied logical and bitwise operators
+- [x] Reviewed `for`, `while`, and `do-while` loops
+- [x] Practiced Group Discussion
+
+**Day 22 completed — building stronger problem-solving fundamentals in C++.**
