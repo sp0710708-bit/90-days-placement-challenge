@@ -1130,3 +1130,33 @@ Explored how operators evaluate expressions and how loops control repeated execu
 - [x] Started pattern programming
 
 **Day 24 completed — continuing the 90 Days Placement Preparation Challenge!**
+
+
+
+
+## Day 25 — Placement Milestone and First Interview Experience
+
+### Today's Activities
+- Appeared for a company recruitment assessment.
+- Successfully cleared the assessment round.
+- Qualified among 19 students out of 66 participants.
+- Appeared for my first-ever job interview.
+- Awaiting the final interview result.
+
+### Key Learnings
+- Recruitment assessments test both knowledge and problem-solving abilities.
+- Interview experience helps build confidence and improve communication.
+- Real-world placement experiences are an important part of professional growth.
+
+### Personal Reflection
+Today was a memorable milestone in my placement preparation journey. Clearing the assessment and appearing for my first interview gave me valuable exposure to the recruitment process.
+
+Although I couldn't continue my regular technical study today, this experience was an important learning opportunity.
+
+### Progress Checklist
+- [x] Appeared for company assessment
+- [x] Cleared the assessment round
+- [x] Qualified among 19 out of 66 students
+- [x] Attended first job interview
+
+**Day 25 completed — one milestone achieved, continuing the journey!**
