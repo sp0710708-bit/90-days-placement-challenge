@@ -1160,3 +1160,10 @@ Although I couldn't continue my regular technical study today, this experience w
 - [x] Attended first job interview
 
 **Day 25 completed — one milestone achieved, continuing the journey!**
+
+
+
+### Days 26–27: Festival Break 🎉
+- Took time for Diwali preparations and family responsibilities.
+- Paused technical practice during these days.
+- Ready to resume C++ learning and placement preparation.
