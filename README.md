@@ -1167,3 +1167,11 @@ Although I couldn't continue my regular technical study today, this experience w
 - Took time for Diwali preparations and family responsibilities.
 - Paused technical practice during these days.
 - Ready to resume C++ learning and placement preparation.
+
+
+
+### Day 28: Career Preparation 🌱
+- Focused on career-related preparation.
+- Worked on an important task related to professional development.
+- Regular C++ practice was paused due to Diwali preparations.
+- Continuing to work towards better time management and placement readiness.
